@@ -34,7 +34,6 @@ The model achieved an accuracy of 83.21% on the test dataset.
 ### **Contributing**
 Feel free to raise issues or contribute to the project by opening a pull request.
 
-
 ### Contact
 Feel free to reach out if you have any questions or would like to connect!
 
