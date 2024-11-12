@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/a439dda7-3303-4884-93e6-28c20115ecf5)
+
+
 # **Amazon Review Sentiment Analysis**
 This repository contains a sentiment analysis project based on Amazon shopping reviews. The goal is to classify customer feedback into positive or negative sentiments using machine learning techniques.
 
